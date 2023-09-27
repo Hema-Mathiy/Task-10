@@ -1,0 +1,8 @@
+1. #To create a requirements.txt
+  -->pip freeze > requirements.txt
+   # To print the content of the requirements
+  -->type requirements.txt
+
+
+2. #To install Flask
+  -->pip install Flask==2.0
